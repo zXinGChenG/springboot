@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.dao.StudentDao">
+<!--    <resultMap id="getStudentResultMap" type="com.example.entity.Student">-->
+<!--        <id property="student_id" column="xh" />-->
+<!--        <result property="name" column="xm" />-->
+<!--        <result property="sex" column="xb" />-->
+<!--        <result property="birth" column="csrq" />-->
+<!--        <result property="location" column="jp" />-->
+<!--        <result property="phone" column="sjhm" />-->
+<!--        <result property="yxh" column="academy_id" />-->
+<!--    </resultMap>-->
+
+<!--    <select id="getStudent" resultMap="com.example.entity.Student" >-->
+<!--        select * from student-->
+<!--    </select>-->
+</mapper>
